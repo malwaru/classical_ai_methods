@@ -1,0 +1,65 @@
+ 
+Staring new random sequence at itertion 2000
+Current best cost 1142.7879604066313
+Staring new random sequence at itertion 4000
+Current best cost 1142.7879604066313
+Staring new random sequence at itertion 6000
+Current best cost 1142.7879604066313
+Staring new random sequence at itertion 8000
+Current best cost 1142.7879604066313
+ 
+ 
+ Best Sequence:
+Abidjan
+Lima
+Bogota
+Mexico City
+Los Angeles
+Toronto
+New York
+London
+Istanbul
+Tehran
+Karachi
+Rangoon
+Bangkok
+Manila
+Tokyo
+Soul
+Shanghai
+Chongqing
+Calcutta
+Hyderabad
+Bombay
+Ahmadabad
+Lahore
+Delhi
+Dhaka
+Chengdu
+Xian
+Peking
+Tianjin
+Wuhan
+Ho Chi Minh City
+Singapore
+Jakarta
+Madras
+Bangalore
+Moscow
+Saint Petersburg
+Ibadan
+Lagos
+Sao Paulo
+Santiago
+Buenos Aires
+Rio de Janeiro
+Kinshasa
+Riyadh
+Bagdad
+Ankara
+Alexandria
+Cairo
+Abidjan
+
+Least distance from Steepest Ascent: 1066.034389970768
+Time: 55.28006273400001s

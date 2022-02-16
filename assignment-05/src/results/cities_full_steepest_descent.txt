@@ -1,0 +1,769 @@
+Staring new random sequence at itertion 2000
+Current best cost 16072.742618173792
+Staring new random sequence at itertion 4000
+Current best cost 15209.840717797413
+Staring new random sequence at itertion 6000
+Current best cost 14742.600299700442
+Staring new random sequence at itertion 8000
+Current best cost 13895.735788914084
+ 
+ 
+ Best Sequence:
+Harbin
+Jiaozuo
+Agra
+Karachi
+'Adan
+Nairobi
+Kampala
+Bangui
+Garoua
+Genoa
+Turin
+Athens
+Chongqing
+Guilin
+Shaoguan
+Rongcheng
+Xigong
+Xianggangdao
+Taizhong
+Fuzhou
+Wuhu
+Huaiyin
+Benxi
+Changchun
+Fushun
+Qinhuangdao
+Xuzhou
+Xinyang
+Kathmandu
+Yaounde
+Ife
+Ibadan
+Niamey
+Algiers
+Vienna
+Lipetsk
+Xinxiang
+Taizhou
+Shanghai
+Soul
+Uijongbu
+Tangshan
+Baoding
+Taiyuan
+Baotou
+Almaty
+Orumiyeh
+Santiago
+Havanna
+Agadir
+Zaragoza
+Mykolayiv
+Ankara
+Eskisehir
+Diyarbak?r
+Mersin
+Kerman
+Jamnagar
+Bombay
+Pune
+Gulbarga
+Hyderabad
+Durgapur
+Changde
+Zhuzhou
+Hengyang
+Liuzhou
+Raipur
+Jiddah
+Marrakesh
+Charlotte
+San Antonio
+Monterrey
+Guadalupe
+Tegucigalpa
+Pekan Baru
+Singapore
+Ipoh
+Subang Jaya
+Bareli
+Moradabad
+Saratov
+Samara
+Islamabad
+Bahawalpur
+Multan
+Sargodha
+Abeokuta
+Abidjan
+Barquisimeto
+Cancun
+Queretaro
+Leon
+Toluca
+Bogota
+Surat
+Ulyanovsk
+Kazan
+Naberezhnyye Chelny
+Urumqi
+Lanzhou
+Dushanbe
+Asgabat
+Kermanshah
+al-H?illah
+Asmara
+Ta'izz
+Kolhapur
+Sangli-Miraj
+Bangalore
+Padang
+Adelaide
+Sydney
+Makasar
+Johor Bahru
+Madurai
+Koyampattur
+San'a
+Monrovia
+Jaboatao
+Salta
+Tucuman
+Santa Fe
+Campo Grande
+Natal
+Volgograd
+Tolyatti
+Nizhniy Novgorod
+Yaroslavl
+Moscow
+Ryazan
+Srinagar
+Zunyi
+Hefei
+Huaibei
+Bengbu
+Maanshan
+Yancheng
+Yantai
+Suwon
+Anyang
+Chongju
+Taejon
+Matsuyama
+Wenzhou
+as-Sulaymaniyah
+Gazzah
+Prague
+Brussels
+Paris
+K?benhavn
+Oslo
+Stockholm
+Orenburg
+Mashhad
+Amritsar
+Lahore
+Kiev
+Helsinki
+Riga
+Vilnius
+Khartoum
+al-H?artum Bah?ri
+Benghazi
+Wahran
+Valencia
+Bursa
+Krasnodar
+Ajmer
+Jaipur
+Delhi
+Jabalpur
+Bhilai
+Zhunmen
+Shatian
+Yuanlong
+Kunming
+Tbilisi
+Rostov-na-Donu
+Adana
+Aleppo
+Antalya
+Ouagadougou
+Recife
+Porto Alegre
+Montevideo
+Mar del Plata
+Luanda
+Kananga
+Chelyabinsk
+Tyumen
+Shihezi
+Xining
+Chengdu
+Neijiang
+Guwahati
+Varanasi
+Ghaziabad
+Ludhiana
+Karaj
+Tehran
+H?amah
+H?ims
+Port Said
+Damascus
+Meknes
+Sevilla
+Madrid
+Quebec
+Ottawa
+Montreal
+Port-au-Prince
+Aparecida de Goiania
+Sao Paulo
+Sao Bernardo do Campo
+Osasco
+Nashik
+Nanning
+Maoming
+Kota Kinabalu
+Malang
+Surabaya
+Jakarta
+Bandung
+Kuala Lumpur
+Umm Durman
+Dakar
+San Luis Potosi
+Zapopan
+Guadalajara
+Morelia
+Mexico City
+Puebla
+Chiclayo
+Quito
+Guayaquil
+Naucalpan
+Ecatepec
+Chimalhuacan
+Nezahualcoyotl
+Guatemala
+Villa Nueva
+Trujillo
+Santa Cruz
+Rio de Janeiro
+Riyadh
+Jalandhar
+Xianyang
+Xingtai
+Zhengzhou
+Changsha
+Shaoyang
+Gujranwala
+Peshawar
+Baku
+Donetsk
+Kharkiv
+Dnipropetrovs'k
+Marseille
+Rabat
+Boston
+Toronto
+Columbus
+Barranquilla
+Medellin
+Valencia
+Fortaleza
+Bouake
+Djibouti
+Rajkot
+Bhiwandi
+Kalyan
+Ufa
+Perm
+Yekaterinburg
+Barnaul
+Novokuznetsk
+Krasnoyarsk
+Ulaanbaatar
+Qiqihar
+Dandong
+Anshan
+Songnam
+Changwon
+Pusan
+Taegu
+Shenzhen
+Phnum Penh
+Petaling Jaya
+Antananarivo
+Maputo
+Welkom
+La Paz
+El Alto
+Arequipa
+Cochabamba
+Joinville
+Duque de Caxias
+Kinshasa
+Kisangani
+Suez
+Voronezh
+Zaporizhzhya
+Kryvyy Rih
+Chisinau
+Bucharest
+Tashkent
+Biskek
+Zhangjiakou
+Hohhot
+Shijiazhuang
+Puyang
+Kagoshima
+Kuching
+Bogor
+Bekasi
+Bandar Lampung
+Colombo
+Cairo
+Naples
+Rome
+Stuttgart
+Leipzig
+Berlin
+Hamburg
+Bremen
+Dublin
+Barcelona
+Bucaramanga
+Cucuta
+Lima
+Joao Pessoa
+Oshogbo
+Ilorin
+Accra
+Asuncion
+Santiago
+Mendoza
+Palembang
+Dasmarinas
+Calamba
+Hamamatsu
+Sakai
+Kobe
+Osaka
+Dadiangas
+Shah Alam
+Ampang Jaya
+Klang
+Semarang
+Yogyakarta
+Blantyre
+Lusaka
+Ribeirao Preto
+Ribeirao das Neves
+Thiruvananthapuram
+Pimpri
+Guiyang
+Xuchang
+Luancheng
+Tanggu
+Irkutsk
+Bikaner
+Enugu
+Aba
+Maceio
+Aracaju
+Feira de Santana
+Sao Luis
+Winnipeg
+Edmonton
+Seattle
+Calgary
+Las Vegas
+San Diego
+Tucson
+Fort Worth
+Dallas
+Malaga
+Fez
+Tunis
+Tripoli
+Akure
+Kaduna
+Zaria
+Alexandria
+Yerevan
+Tabriz
+Qom
+Hyderabad
+Indore
+Bhopal
+Nagpur
+Gwalior
+Aligarh
+Faridabad
+Chandigarh
+Saharanpur
+Mirat
+Dehra Dun
+Panjin
+Yingkou
+Dalian
+Qingdao
+Zhangdian
+Taian
+Cangzhou
+Jiamusi
+Mudanjiang
+Khabarovsk
+Hegang
+Jilin
+Siping
+Koyang
+Hamhung
+Pyongyang
+Kaifeng
+Gorakhpur
+Jodhpur
+al-'Ayn
+at-Ta'if
+Santo Domingo
+Jacksonville
+Indianapolis
+Louisville
+Nashville
+Ciudad Guayana
+Belem
+Madras
+Kataka
+Ha Noi
+Hai Phong
+Pingdingshan
+Kumamoto
+Fukuoka
+Kyoto
+Okayama
+Hiroshima
+Nanchang
+Banqiao
+Cebu
+Cagayan
+Tokyo
+Sagamihara
+Saitama
+Kawasaki
+Funabashi
+Chiba
+Yokohama
+Hachioji
+Kitakyushu
+Vladivostok
+Novosibirsk
+Cracow
+Dresden
+Munich
+Hanover
+Frankfurt
+Belgrade
+Vadodara
+Ahmadabad
+Zahedan
+Shubra-El-Khema
+Kano
+Conakry
+Belo Horizonte
+Contagem
+Nova Iguacu
+Cape Town
+Port Elizabeth
+Pietermaritzburg
+Tembisa
+Bhubaneswar
+Ranchi
+Bhatpara
+Rangoon
+Bangkok
+Haikou
+Guangzhou
+Jiulong
+Nantong
+Chonju
+Ansan
+Inchon
+Shihung
+Puchon
+Wuhan
+Huangshi
+Chattagam
+Mbuji-Mayi
+Pointe Noire
+Guarulhos
+Campinas
+Londrina
+Sorocaba
+Matola
+Perth
+Surakarta
+Depok
+Tangerang
+Rajpur
+Haora
+Rajshahi
+Datong
+Langfang
+Tianjin
+Jinan
+Anyang
+Changzhi
+al-Madinah
+Milan
+Maracay
+Petare
+Caracas
+Soledad
+San Pedro Sula
+Tuxtla Gutierrez
+Lopez Mateos
+San Nicolas de los Garza
+Saltillo
+Torreon
+Reynosa
+Bamako
+Abu Dhabi
+Higashiosaka
+Sapporo
+Sendai
+Melbourne
+Gold Coast
+Brisbane
+Davao
+Zamboanga
+Banjarmasin
+Harare
+Bulawayo
+Lubumbashi
+Kigali
+Cologne
+Dusseldorf
+Dortmund
+Nuremberg
+?odz
+Odesa
+Kayseri
+Gaziantep
+Resht
+Rawalpindi
+Jammu
+Calcutta
+Narayanganj
+Yueyang
+Huainan
+Nanjing
+Yangzhou
+Zhenjiang
+Wuxi
+Suzhou
+Ningbo
+Taibei
+Tainan
+Xiamen
+Zigong
+Shiliguri
+Warri
+Cotonou
+Lagos
+Boma
+Kolwezi
+Pretoria
+Durban
+Bloemfontein
+Jos
+N'Djamena
+Bayrut
+Izhevsk
+Omsk
+Shenyang
+Liaoyang
+Jinzhou
+Fuxin
+Handan
+Visakhapatnam
+Warangal
+Vijayawada
+Zhanjiang
+Jiangmen
+Gaoxiong
+Nagoya
+Niigata
+Shizuoka
+Ulsan
+Kwangju
+Changzhou
+Zhuhai
+Foshan
+Shantou
+Zhangzhou
+Hangzhou
+Xiangtan
+Mandalay
+Nanded
+Sholapur
+ad-Dammam
+Uberlandia
+Cuiaba
+San Salvador
+Houston
+Austin
+New York
+Tangier
+Casablanca
+Philadelphia
+Washington
+Detroit
+Hamilton
+Baltimore
+Milwaukee
+Oklahoma City
+Chicago
+Warsaw
+Sofia
+Gizeh
+Lome
+Sao Jose dos Campos
+Santo Andre
+Onitsha
+Niyala
+Addis Abeba
+Hubli
+Thana
+Ulhasnagar
+Navi Mumbai
+Maiduguri
+Abuja
+Douala
+Mwanza
+Medan
+Ho Chi Minh City
+Antipolo
+Manila
+Shiraz
+L'viv
+Budapest
+Wroc?aw
+Poznan
+Goteborg
+Glasgow
+Goiania
+La Plata
+Buenos Aires
+Rosario
+Sao Goncalo
+Dar es Salaam
+Mombasa
+Muqdisho
+Mecca
+Palermo
+Denver
+San Jose
+Los Angeles
+Tijuana
+Juarez
+El Paso
+Phoenix
+Albuquerque
+Memphis
+Birmingham
+Zagreb
+'Amman
+Jerusalem
+Tabuk
+Lilongwe
+Johannesburg
+Benoni
+Soweto
+Brazzaville
+Libreville
+Port Harcourt
+Benin
+Kumasi
+Freetown
+Kingston
+Maracaibo
+Culiacan
+Mexicali
+Hermosillo
+Chihuahua
+Atlanta
+Barcelona
+Izmir
+Aurangabad
+Amravati
+Patna
+Jamshedpur
+Allahabad
+Kota
+Quetta
+Esfahan
+Kirkuk
+al-Mawsil
+Irbil
+an-Najaf
+Bagdad
+Dubai
+Sharjah
+Ahvaz
+Istanbul
+Nouakchott
+Maturin
+Cali
+Managua
+Mixco
+Aguascalientes
+Vancouver
+Portland
+San Francisco
+Tlaquepaque
+Cartagena
+Manaus
+Brasilia
+Teresina
+Salvador
+Curitiba
+Cordoba
+Puente Alto
+Acapulco
+Tlalnepantla
+Cuautitlan Izcalli
+Veracruz
+Merida
+al-Basrah
+Kabul
+Faisalabad
+Xian
+Luoyang
+Shashi
+Dhaka
+Khulna
+Guntur
+Maisuru
+Tiruchchirappalli
+Salem
+Mira Bhayandar
+Bhavnagar
+Konya
+Rotterdam
+London
+Amsterdam
+Essen
+Minsk
+Saint Petersburg
+Kanpur
+Lakhnau
+Peking
+Harbin
+
+ Least distance from Steepest Ascent: 13895.735788914084
+Time: 833.8437875889999s

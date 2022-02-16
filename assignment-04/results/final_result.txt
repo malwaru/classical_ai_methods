@@ -1,0 +1,19 @@
+Greedy Search		
+Config	Time	Iterations	Heuristic
+1	0.033943090999855485s	129	Manhattan
+2	0.04524642300020787s	232	Manhattan
+3	0.008537764999346109s	37	Manhattan
+1	0.058107433000259334s	258	Misplaced
+2	0.0074445170002945815s	28	Misplaced
+3	0.005263162000119337s	23	Misplaced
+
+A* Search
+			
+Config	Time	Iterations	Heuristic
+1	0.07301312799972948s	374	Manhattan
+2	8.219516596000176s	8066	Manhattan
+3	0.012699574999714969s	70	Manhattan
+1	0.1393697430003158s	646	Misplaced
+2	88	                88	Misplaced
+3	0.045873649998611654s	225	Misplaced
+
